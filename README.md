@@ -9,7 +9,7 @@
 </p>
 
 <a href="mailto:deltaworld.np@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-deltaworl.np%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-deltaworld.np%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
